@@ -22,3 +22,5 @@
     <image align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <image align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freitinhas18)](https://github.com/anuraghazra/github-readme-stats)
